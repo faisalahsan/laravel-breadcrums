@@ -1,5 +1,5 @@
 {
-    "name": "Faisalahsanse/laravel-breadcrums",
+    "name": "faisalahsanse/laravel-breadcrums",
     "description": "A helper function to create breadcrums for you website",
     "keywords": ["faisalahsanse", "laravel-breadcrums", "helper", "view", "breadcrums", "laravel"],
     "license": "MIT",
