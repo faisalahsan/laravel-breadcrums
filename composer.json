@@ -15,8 +15,8 @@
             "Faisalahsan\\LaravelBreadcrums\\": "src/"
         }
     },
-    "minimum-stability": "dev",
     "require": {
         "illuminate/support" : "~5"
-    }
+    },
+    "minimum-stability": "stable"
 }
