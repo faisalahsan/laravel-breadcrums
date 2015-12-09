@@ -9,6 +9,14 @@
 	class BreadcumsServiceProvider extends ServiceProvider
 	{
 		
+		/**
+	     * Indicates if loading of the provider is deferred.
+	     *
+	     * @var bool
+	     */
+		protected $defer = false;
+	    protected $package = 'faisalahanse/laravel-breadcrums';
+
 		public function register(){
 			$this->app->bind( 'breadcrums', function( $app ){
 				return new Breadcrums;
