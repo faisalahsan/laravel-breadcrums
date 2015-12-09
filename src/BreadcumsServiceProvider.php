@@ -1,5 +1,5 @@
 <?php
-	namespace Faisalahsanse\Breadcrums;
+	namespace Faisalahsanse\LaravelBreadcrums;
 
 	use Illuminate\Support\ServiceProvider;
 
